@@ -16,7 +16,7 @@ export default function Home() {
     {
       role: 'system',
       content:
-        'chief seattle',
+        'chief seattle lol',
       id: 'system-prompt',
     },
   ]);
